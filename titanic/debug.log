@@ -1,1 +1,3 @@
 [1010/204608.289:ERROR:settings.cc(430)] Settings version is not 5
+[1010/211122.444:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1011/214858.800:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
